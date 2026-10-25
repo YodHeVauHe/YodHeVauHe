@@ -1,25 +1,17 @@
 # ZaSourceCode
 
-Software engineer at [Foundation Stone Algorithms](https://foundationstonealgorithms.shop) — building AI-agent systems, trading infrastructure, and web platforms.
+Software engineer at Foundation Stone Algorithms.
 
-## Focus
+## Projects
 
-- **AI agents** — autonomous coding and workflow tooling
-- **Trading systems** — local-first, tick-level backtesting engines
-- **Web platforms** — product development in TypeScript and React
-- **Security** — CTF competitions and reverse engineering
+- **[FoundationStoneAlgorithms](https://github.com/YodHeVauHe/FoundationStoneAlgorithms)** — the company site and storefront of Foundation Stone Algorithms: custom software built for clients — client portals, dashboards, internal tools, and business sites across web, mobile, and desktop.
 
-## Notable work
+- **[issues-to-pr](https://github.com/YodHeVauHe/issues-to-pr)** — hand an agent a GitHub issue, get back a finished pull request: planned, implemented, and reviewed, one branch per issue.
 
-- **[FoundationStoneAlgorithms](https://github.com/YodHeVauHe/FoundationStoneAlgorithms)** — the Foundation Stone Algorithms platform: AI-powered solutions built on intelligent agents (TypeScript, React, Vite).
-- **[issues-to-pr](https://github.com/YodHeVauHe/issues-to-pr)** — an agent skill that turns GitHub issues into merged pull requests, end to end.
-- **Milima CTF Arena 2026** — 7th place, team ZaSourceCode.
+- **BacktestEngine** — simulates trading strategies against historical tick-level market data, so performance is measured before capital is risked.
 
-## Stack
+- **Milima CTF 2026 write-ups** — competition write-ups from Milima CTF Arena, where team ZaSourceCode finished 7th.
 
-TypeScript · React · Node.js · Python · Rust · GitHub Actions · Vercel
+## Contact
 
-## Elsewhere
-
-- Web — [foundationstonealgorithms.shop](https://foundationstonealgorithms.shop)
-- X — [@zasourcecode](https://x.com/zasourcecode)
+[foundationstonealgorithms.shop](https://foundationstonealgorithms.shop) · [@zasourcecode](https://x.com/zasourcecode) on X
