@@ -1,6 +1,6 @@
 # ZaSourceCode
 
-Software engineer at Foundation Stone Algorithms.
+Software Engineer at Foundation Stone Algorithms.
 
 ## Projects
 
