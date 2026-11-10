@@ -10,7 +10,7 @@ Software Engineer at Foundation Stone Algorithms.
 
 - **BacktestEngine** — simulates trading strategies against historical tick-level market data, so performance is measured before capital is risked.
 
-- **Milima CTF 2026 write-ups** — competition write-ups from Milima CTF Arena, where team ZaSourceCode finished 7th.
+- **[Milima CTF 2026 write-ups](https://github.com/YodHeVauHe/milima-ctf-2026-writeups)** — competition write-ups from Milima CTF Arena, where team ZaSourceCode finished 7th.
 
 ## Contact
 
