@@ -6,7 +6,7 @@
 
 **Software Engineer at Foundation Stone Algorithms — building across Logos, trading systems, and agent tooling.**
 
-[![Website](https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foundationstonealgorithms.shop)
+[![Employeer](https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foundationstonealgorithms.shop)
 [![X](https://img.shields.io/badge/%40zasourcecode-181717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zasourcecode)
 [![GitHub](https://img.shields.io/badge/GitHub-YodHeVauHe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YodHeVauHe)
 
@@ -49,7 +49,7 @@ Currently building **[AuditLinkTrail](https://github.com/YodHeVauHe/AuditLinkTra
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foundationstonealgorithms.shop)
+[![Employeer](https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foundationstonealgorithms.shop)
 [![X](https://img.shields.io/badge/%40zasourcecode-181717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zasourcecode)
 [![GitHub](https://img.shields.io/badge/GitHub-YodHeVauHe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YodHeVauHe)
 
