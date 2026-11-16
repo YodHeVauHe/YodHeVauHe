@@ -46,10 +46,6 @@ Currently building **[logos-mobile](https://github.com/YodHeVauHe/logos-mobile)*
 - Open-source contributions and code research across communities: [hummingbot](https://github.com/hummingbot/hummingbot), [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx), and [StykAnimate](https://github.com/YodHeVauHe/StykAnimate-App).
 - CTF competition write-ups for Milima CTF Arena 2026 (team ZaSourceCode, 7th place).
 
-## Contact
-
-[Website](https://foundationstonealgorithms.shop) · [X](https://x.com/zasourcecode) · [GitHub](https://github.com/YodHeVauHe)
-
 ---
 
 <div align="center">
