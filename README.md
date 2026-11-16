@@ -16,13 +16,12 @@
 
 ## Now
 
-Currently building **[logos-mobile](https://github.com/YodHeVauHe/logos-mobile)** — an Android platform for running real Logos infrastructure locally on smartphones, and managing it safely as device conditions change.
+Currently building **[AuditLinkTrail](https://github.com/YodHeVauHe/AuditLinkTrail)** — a tamper-evident trust layer for institutional auditing.
 
 ## Logos ecosystem
 
 | Project | What it is | Language |
 | --- | --- | --- |
-| **[logos-mobile](https://github.com/YodHeVauHe/logos-mobile)** | Android platform for running Logos infrastructure locally on smartphones and managing it safely as device conditions change. Current focus. | Rust |
 | **[logos-osm](https://github.com/YodHeVauHe/logos-osm)** | LP-0018 — OpenStreetMap integration for Logos: on-chain OSM registry (SPEL/LEZ), SDK, CLI, and Basecamp module + app. | Rust |
 | **[logos-osm-modules](https://github.com/YodHeVauHe/logos-osm-modules)** | Module catalog for logos-osm (LP-0018): the `osm` SDK module and `osm-app` Basecamp app. | Shell |
 | **[lez-wallet](https://github.com/YodHeVauHe/lez-wallet)** | LEZ Wallet and Provider SDK for Logos Basecamp (λPrize LP-0021): public/private accounts, token assets, dApp connections. | — |
@@ -34,7 +33,7 @@ Currently building **[logos-mobile](https://github.com/YodHeVauHe/logos-mobile)*
 
 - **[issues-to-pr](https://github.com/YodHeVauHe/issues-to-pr)** — hand an agent a GitHub issue, get back a finished pull request: planned, implemented, and reviewed, one branch per issue.
 
-- **[AuditChain](https://github.com/YodHeVauHe/AuditChain)** — tamper-evident trust layer for institutional auditing.
+- **[AuditLinkTrail](https://github.com/YodHeVauHe/AuditLinkTrail)** — tamper-evident trust layer for institutional auditing.
 
 - **BacktestEngine** — simulates trading strategies against historical tick-level market data, so performance is measured before capital is risked.
 
